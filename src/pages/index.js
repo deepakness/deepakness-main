@@ -20,7 +20,7 @@ class IndexPage extends React.Component {
           <span role="img" aria-label="wave emoji">👋</span>
           {" "} Yo!
         </h1> */}
-        <p><span role="img" aria-label="wave emoji">👋 </span>Yo! I’m Deepak.</p>
+        <p><span role="img" aria-label="wave emoji">👋 </span><strong>Yo! I’m Deepak.</strong></p>
         <p>Mainly, I write and develop business strategies.</p>
         <p>
           I’ve been writing on the internet since 2015 and have learned a certain set of business skills on the way.
