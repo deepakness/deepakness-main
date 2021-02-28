@@ -59,7 +59,7 @@ class IndexPage extends React.Component {
         <p><span role="img" aria-label="rocket emoji">🚀 </span>Reading “Outliers” by Malcolm Gladwell</p>
 
         <Link to="/blog/">
-          <Button marginTop="35px">Go to Blog</Button>
+          <Button marginTop="35px">Blog</Button>
         </Link>
       </Layout>
     )
