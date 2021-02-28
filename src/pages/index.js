@@ -43,8 +43,8 @@ class IndexPage extends React.Component {
 
         <h2>I create...</h2>
         <p>I create stuff on the internet.</p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span>Started <a href="https://compile.blog">compile.blog</a> (in 2015) where I share technology and blogging tips.</p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span>Started <a href="https://aspiringyouths.com">Aspiring Youths</a> as a side project but with time, have transformed it into a huge knowledge library for students.</p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog">compile.blog</a>: A blog on blogging and technology tips.</p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://aspiringyouths.com">Aspiring Youths</a>: A huge knowledge library for students.</p>
 
         <h2>I travel...</h2>
         <p>I travel too, occasionally.</p>
