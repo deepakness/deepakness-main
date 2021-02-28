@@ -16,11 +16,11 @@ class IndexPage extends React.Component {
           keywords={[`Deepak`, `Deepakness`, `Deepak K`, `Deepakness Blog`]}
         />
         {/* <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" /> */}
-        <h1>
+        {/* <h1>
           <span role="img" aria-label="wave emoji">👋</span>
-          {" "} Hey, I’m Deepak.
-        </h1>
-
+          {" "} Yo!
+        </h1> */}
+        <p><span role="img" aria-label="wave emoji">👋</span>Yo! I’m Deepak.</p>
         <p>Mainly, I write and develop business strategies.</p>
         <p>
           I’ve been writing on the internet since 2015 and have learned a certain set of business skills on the way.
