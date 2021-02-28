@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Gatsby`,
+    title: `Deepak K`,
+    author: `Deepak K`,
     description: `Hey! I'm Deepak K. I write about business, marketing, and technology related stuff, mainly.`,
     siteUrl: `https://deepakness.com/`,
     social: {
