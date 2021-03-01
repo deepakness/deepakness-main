@@ -30,21 +30,21 @@ class IndexPage extends React.Component {
         <h2>I write...</h2>
         <p>I’ve always loved <a href="https://deepakness.com/blog">writing</a>. Whether it’s my personal journal or a public blog post – it’s fun to write. Also, writing pays my bills.</p>
         <p>Some of the best ones that I’ve written:</p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/2021/02/05/marketing-technopologist/">Who is a Marketing Technopologist?</a></p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/why-is-your-blog-not-growing-9-tips-199f590a462d">Why is Your Blog Not Growing?</a></p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/2019/04/04/high-performing-digital-contents/">30+ Types of High Performing Content Marketing Ideas</a></p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/why-manjaro-linux-is-the-best-linux-distribution-3ff79a50708f">Why Manjaro Linux is the Best Linux Distribution</a></p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/what-it-was-like-to-be-colonized-by-the-british-6a03eea701fb">What It was Like to be Colonized by the British</a></p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/2021/02/05/marketing-technopologist/" target="_blank">Who is a Marketing Technopologist?</a></p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/why-is-your-blog-not-growing-9-tips-199f590a462d" target="_blank">Why is Your Blog Not Growing?</a></p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/2019/04/04/high-performing-digital-contents/" target="_blank">30+ Types of High Performing Content Marketing Ideas</a></p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/why-manjaro-linux-is-the-best-linux-distribution-3ff79a50708f" target="_blank">Why Manjaro Linux is the Best Linux Distribution</a></p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/what-it-was-like-to-be-colonized-by-the-british-6a03eea701fb" target="_blank">What It was Like to be Colonized by the British</a></p>
 
         <h2>I read...</h2>
         <p>I love to read too.</p>
         <p>Here’s a list of blogs that produce high-quality contents and that I really love:</p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/the-blogs-database/">The Blogs Database</a></p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/the-blogs-database/" target="_blank">The Blogs Database</a></p>
 
         <h2>I create...</h2>
         <p>I create stuff on the internet.</p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog">compile.blog</a>: A blog on blogging and technology tips.</p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://aspiringyouths.com">Aspiring Youths</a>: A huge knowledge library for students.</p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog" target="_blank">compile.blog</a>: A blog on blogging and technology tips.</p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://aspiringyouths.com" target="_blank">Aspiring Youths</a>: A huge knowledge library for students.</p>
 
         <h2>I travel...</h2>
         <p>I travel too, occasionally.</p>
@@ -54,7 +54,7 @@ class IndexPage extends React.Component {
 
 
         <h2>Currently...</h2>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span>Taking <a href="https://notes.deepakness.com">public raw notes</a> on things I learn</p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span>Taking <a href="https://notes.deepakness.com" target="_blank">public raw notes</a> on things I learn</p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span>Learning to code</p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span>Reading “Outliers” by Malcolm Gladwell</p>
 
