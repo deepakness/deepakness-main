@@ -64,7 +64,7 @@ class IndexPage extends React.Component {
 
         <hr />
 
-        <p style="font-size: 10px"><a href="https://deepakness.com/privacy-policy/">Privacy Policy</a> | <a href="https://deepakness.com/terms-conditions/">Terms and Conditions</a></p>
+        <p><a href="https://deepakness.com/privacy-policy/">Privacy Policy</a> | <a href="https://deepakness.com/terms-conditions/">Terms and Conditions</a></p>
 
       </Layout>
     )
