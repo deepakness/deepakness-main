@@ -61,6 +61,11 @@ class IndexPage extends React.Component {
         <Link to="/blog/">
           <Button marginTop="35px">Blog</Button>
         </Link>
+
+        <hr />
+
+        <p style="font-size: 10px"><a href="https://deepakness.com/privacy-policy/">Privacy Policy</a> | <a href="https://deepakness.com/terms-conditions/">Terms and Conditions</a></p>
+
       </Layout>
     )
   }
