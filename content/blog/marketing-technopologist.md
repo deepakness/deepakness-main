@@ -14,6 +14,8 @@ So... in simple words:
 
 I believe, the word "Marketing Technopologist" first appeared in a [WSJ article](https://www.wsj.com/articles/SB122884677205091919) (in 2008) titled “The Secrets of Marketing in a Web 2.0 World”.
 
+![Marketing Technopologist](/marketing-technopologist.jpg)
+
 ## Skills of a Marketing Technopologist
 
 Below are the 3 main ones:
@@ -22,7 +24,7 @@ Below are the 3 main ones:
 
 Gone are those days when the tools based on mass reach used to do the magic. And, marketing technopologists know that.
 
-They stay away from such mass outreach tools and try to understand the impacts of technological advancements on society & media. They continuously evolve, experiment and adapt new marketing techniques.
+They stay away from such mass outreach tools and try to understand the [impacts of technological advancements](https://compile.blog/2021/02/05/marketing-technopologist/) on society & media. They continuously evolve, experiment and adapt new marketing techniques.
 
 Marketing technopologists don't walk away from traditional marketing tools but are also open to new digital ways of business.
 
