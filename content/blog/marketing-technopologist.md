@@ -1,5 +1,4 @@
 ---
-path: marketing-technopologist
 date: 2021-03-10T04:24:47.364Z
 title: Everything about a Marketing Technopologist
 description: A person who knows about marketing, technology and social
