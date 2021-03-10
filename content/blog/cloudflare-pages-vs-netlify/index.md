@@ -11,9 +11,11 @@ Not anymore!!!
 
 With the most generous free tier, **Cloudflare Pages** is all set to compete with Netlify on this front. And, I believe, it can be the next number 1 choice to host JAMstack sites.
 
+![Cloudflare Pages vs Netlify](./Cloudflare-Pages-vs-Netlify.jpg)
+
 Look at the comparisons with Netlify, below:
 
-## Cloudflare Pages vs Netlify \[Feature Comparison]
+## Cloudflare Pages vs Netlify [Feature Comparison]
 
 Most of the features are almost similar to that of Netlify. But, Cloudflare Pages wins when it comes to collaboration and security.
 
@@ -32,7 +34,7 @@ Most of the features are almost similar to that of Netlify. But, Cloudflare Page
 | Global CDN              | Yes              | No         |
 | Unlimited Collaborators | Yes              | No         |
 
-## Cloudflare Pages vs Netlify \[Pricing Comparison]
+## Cloudflare Pages vs Netlify [Pricing Comparison]
 
 | Details             | Cloudflare Pages  | Netlify            |
 | ------------------- | ----------------- | ------------------ |
