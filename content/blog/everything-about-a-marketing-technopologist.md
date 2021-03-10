@@ -23,7 +23,7 @@ Below are the 3 main ones:
 
 Gone are those days when the tools based on mass reach used to do the magic. And, marketing technopologists know that.
 
-They stay away from such mass outreach tools and try to understand the impacts of technological advancements on the society & media. They continuously evolve, experiment and adapt new marketing techniques.
+They stay away from such mass outreach tools and try to understand the impacts of technological advancements on society & media. They continuously evolve, experiment and adapt new marketing techniques.
 
 Marketing technopologists don't walk away from traditional marketing tools but are also open to new digital ways of business.
 
@@ -45,4 +45,6 @@ Marketing technopologists understand the cultural, religious, political, and eco
 
 That's it.
 
-**Can marketing technopologists be called brand managers 2.0?**
+**Food for thought:**
+
+Can marketing technopologists be called brand managers 2.0?
