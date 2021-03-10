@@ -60,3 +60,4 @@ That's it.
 
 Let's see what happens to the Cloudflare Pages in the near future.
 
+Let's [discuss on Twitter](https://twitter.com/DeepakNesss/status/1369685282841186308?s=20).
