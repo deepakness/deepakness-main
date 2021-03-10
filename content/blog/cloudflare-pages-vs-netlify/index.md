@@ -11,7 +11,7 @@ Not anymore!!!
 
 With the most generous free tier, **Cloudflare Pages** is all set to compete with Netlify on this front. And, I believe, it can be the next number 1 choice to host JAMstack sites.
 
-![Cloudflare Pages vs Netlify](./Cloudflare-Pages-vs-Netlify.jpg)
+![Cloudflare Pages vs Netlify](/Cloudflare-Pages-vs-Netlify.jpg)
 
 Look at the comparisons with Netlify, below:
 
@@ -53,7 +53,7 @@ Most of the features are almost similar to that of Netlify. But, Cloudflare Page
 
 
 
-Cloudflare Pages offer default `pages.dev` URL whereas Netlify offers `netlify.app`. Meaning, if you're not willing to add a custom domain to your app, it will look something like `your-github-repo.pages.dev`in Cloudflare Pages.
+Cloudflare Pages offer default `pages.dev` URL whereas Netlify offers `netlify.app`. Meaning, if you're not willing to add a custom domain to your app, it will look something like `your-github-repo.pages.dev` in Cloudflare Pages.
 
 However, Netlify lets you change the default subdomain name.
 
