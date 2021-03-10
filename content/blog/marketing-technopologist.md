@@ -48,4 +48,4 @@ That's it.
 
 **Food for thought:**
 
-Can marketing technopologists be called brand managers 2.0?
+Can a marketing technopologists be called brand manager 2.0?
