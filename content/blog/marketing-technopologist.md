@@ -49,3 +49,5 @@ That's it.
 **Food for thought:**
 
 Can a marketing technopologists be called brand manager 2.0?
+
+Let's [discuss on Twitter](https://twitter.com/DeepakNesss/status/1369539862194438145?s=20)
