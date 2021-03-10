@@ -30,7 +30,7 @@ class IndexPage extends React.Component {
         <h2>I write...</h2>
         <p>I’ve always loved <a href="https://deepakness.com/blog">writing</a>. Whether it’s my personal journal or a public blog post – it’s fun to write. Also, writing pays my bills.</p>
         <p>Some of the best ones that I’ve written:</p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/2021/02/05/marketing-technopologist/" rel="noreferrer" target="_blank">Who is a Marketing Technopologist?</a></p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.com/blog/marketing-technopologist/" rel="noreferrer" target="_blank">Everything about a Marketing Technopologist</a></p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/why-is-your-blog-not-growing-9-tips-199f590a462d" rel="noreferrer" target="_blank">Why is Your Blog Not Growing?</a></p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/2019/04/04/high-performing-digital-contents/" rel="noreferrer" target="_blank">30+ Types of High Performing Content Marketing Ideas</a></p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/why-manjaro-linux-is-the-best-linux-distribution-3ff79a50708f" rel="noreferrer" target="_blank">Why Manjaro Linux is the Best Linux Distribution</a></p>
