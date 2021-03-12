@@ -29,7 +29,7 @@ Let’s understand...
 
 ## Millennials’ Expectations from the Internet
 
-We (millennials) do not have much but very few expectations from social media, which are:
+We (millennials) have a few expectations from the internet, which are:
 
 ### \#1. We want to relate to you in an authentic way
 
@@ -80,3 +80,9 @@ In the end, the best thing you can do is spend less time trying to figure us out
 Don’t think of Millennials as some mysterious new generation to be figured out.
 
 Find us on our turf, help us relate to you, and add something of value (small or large) to our daily lives.
+
+- - -
+
+**💬 Discussion**
+
+Let's [discuss on LinkedIn](https://www.linkedin.com/posts/deepakness_what-a-millennial-wants-from-the-internet-activity-6776048342242775040-JjMZ)
