@@ -27,7 +27,7 @@ Okay, so what is it that millennials really want? How do they behave? And, most 
 
 Let’s understand...
 
-## Millennials’ Expectations from the Social Media
+## Millennials’ Expectations from the Internet
 
 We (millennials) do not have much but very few expectations from social media, which are:
 
