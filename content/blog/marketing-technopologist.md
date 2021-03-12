@@ -50,4 +50,8 @@ That's it.
 
 Can a marketing technopologists be called brand manager 2.0?
 
+- - -
+
+**💬 Discussion**
+
 Let's [discuss on Twitter](https://twitter.com/DeepakNesss/status/1369539862194438145?s=20)
