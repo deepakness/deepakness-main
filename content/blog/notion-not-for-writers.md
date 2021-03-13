@@ -8,7 +8,7 @@ description: Notion is a great management tool. But... sadly, it's NOT for the w
 
 Writing is already full of friction and if the tool you're using takes too much time to load, it's not the one.
 
-Notion is an amazing document management tool. But, writers need tools that are fast, distraction-free, quick, and easy to get started with.
+Notion is an amazing document management tool. But, writers need tools that are fast, distraction-free, and easy to get started with.
 
 When I first got introduced to Notion, I thought this is the tool I've been waiting for. And, I transferred all the notes into it.
 
