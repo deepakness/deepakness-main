@@ -46,7 +46,7 @@ And, it causes some real problems. If it goes down then you have [no access](htt
 
 ![Notion is Down](../assets/notion-is-down.png)
 
-During this major outage, I was unable to access any of my data.
+During this major [outage](https://twitter.com/NotionStatus/status/1370577772880437253?s=20), I was unable to access any of my data.
 
 For writing, offline tools like [Obsidian](https://obsidian.md/) and [Typora](https://typora.io/) are the best because they are fast and distraction-free.
 
