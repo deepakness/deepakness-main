@@ -1,0 +1,46 @@
+---
+path: notion-not-for-writers
+date: 2021-03-13
+title: Notion is NOT for the Writers
+description: Notion is a great management tool. But... sadly, it's NOT for the writers.
+---
+
+> Get through a draft as quickly as possible. - Joshua Wolf Shenk
+
+Writing is already full of friction and if the tool you're using takes 5 seconds to load, it's not for you.
+
+Notion is an amazing document management tool. But, writers need tools that are fast, distraction free, quick and, easy to get started with.
+
+When I first got introduced to Notion, I thought this is the tool I've been waiting for - transferred all my notes into it.
+
+Let me explain in details why it's not good:
+
+## Notion is slow
+
+Indeed! It takes ages to open. And, if one needs to write a quick draft, it's just not a handy tool.
+
+Same applies on the mobile app. I went back to using Google Keep to note down quick drafts and ideas on my phone.
+
+## I spent a lot of time organizing my stuff
+
+Every time I opened Twitter or Reddit, someone would be showing off their beautiful Notion setup. And, I'd start redesigning/modifying my dashboard.
+
+Yes, it's kind of my own fault. But again, a problem is a problem.
+
+I spent a lot of time in organizing my stuff rather than actually creating/writing stuff.
+
+## No offline backup
+
+Notion has no offline feature yet - neither the mobile nor the desktop app.
+
+And, it causes some real problems. If it goes down then you have no access to your data until it's back up again, like it happened recently:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Notion is currently experiencing an outage. We are investigating and will post further updates.</p>&mdash; Notion Status (@NotionStatus) <a href="https://twitter.com/NotionStatus/status/1370577772880437253?ref_src=twsrc%5Etfw">March 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+During this major outage, I was unable to access any of my data.
+
+
+For writing, offline tools like [Obsidian](https://obsidian.md/) and [Typora](https://typora.io/) are the best because they are fast and distraction-free.
+
+However, I still use Notion to organize most of my stuff. But for writing, I've started using Obsidian.
+
