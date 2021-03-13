@@ -44,7 +44,7 @@ Notion has no offline feature yet - neither the mobile nor the desktop app.
 
 And, it causes some real problems. If it goes down then you have [no access](https://www.keepproductive.com/blog/the-major-flaws-with-notion) to your data until it's back up again, like it happened recently:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Notion is currently experiencing an outage. We are investigating and will post further updates.</p>&mdash; Notion Status (@NotionStatus) <a href="https://twitter.com/NotionStatus/status/1370577772880437253?ref_src=twsrc%5Etfw">March 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![Notion is Down](../assets/notion-is-down.png)
 
 During this major outage, I was unable to access any of my data.
 
