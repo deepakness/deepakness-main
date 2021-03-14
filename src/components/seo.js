@@ -9,7 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-import defaultImage from "../../content/assets/profile-pic.jpg"
+import defaultImage from "../../content/assets/deepak-deepakness.jpg"
 function SEO({ description, lang, meta, keywords, title, ogImage }) {
   const { site } = useStaticQuery(
     graphql`
@@ -38,7 +38,7 @@ function SEO({ description, lang, meta, keywords, title, ogImage }) {
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         {
-          name: `description`,
+          name: `description`,  
           content: metaDescription,
         },
         {
