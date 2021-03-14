@@ -69,7 +69,9 @@ class Layout extends React.Component {
         <Footer>
           © {new Date().getFullYear()} |
           {` `}
-          <a href="https://deepakness.com">Deepak K</a>
+          <a href="https://deepakness.com">Deepak K</a> |
+          {` `}
+          <a href="https://deepakness.com/privacy-policy/">Privacy Policy</a>
         </Footer>
       </Wrapper>
     )
