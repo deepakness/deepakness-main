@@ -2,8 +2,9 @@
 path: test-blog-post
 date: 2021-03-14T10:28:27.623Z
 title: Test blog post
-image: ../assets/notion-is-slow.jpg
+ogimage: ../assets/notion-is-slow.jpg
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique mollis accumsan. Praesent pharetra vestibulum sapien eu lobortis. Phasellus ac purus nec metus efficitur mattis vel quis purus. Ut at viverra leo, viverra pellentesque nisl. Donec et ornare dolor. Aliquam erat volutpat. Quisque pretium dolor est, vel fermentum orci elementum nec. Etiam convallis urna tincidunt, egestas mauris vel, pretium elit. Suspendisse nec blandit massa, quis semper massa. Vivamus in ornare arcu, sed dignissim nulla. Pellentesque eu est dapibus, ornare dolor quis, placerat metus. Morbi id neque lorem. Phasellus nec hendrerit ligula.
 
 Fusce ultricies, sapien in lacinia laoreet, dui quam ultricies urna, sed facilisis purus lorem id lacus. Morbi tincidunt molestie lectus, vel fermentum quam consequat at. In vestibulum, diam id dapibus consectetur, tortor lorem congue sem, sit amet scelerisque arcu elit efficitur turpis. Vestibulum velit nulla, placerat id turpis et, lacinia porta ligula. Nam ullamcorper, augue a convallis auctor, sem neque molestie lorem, commodo blandit purus nibh at purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla mollis accumsan justo, id molestie leo iaculis at. Nulla sodales pretium dolor, eu ultricies enim consequat sed. Etiam ut blandit erat, ut porta metus.
