@@ -2,9 +2,8 @@
 path: marketing-technopologist
 date: 2021-03-10T04:24:47.364Z
 title: Everything about a Marketing Technopologist
-description: A person who knows about marketing, technology and social
-  anthropology is a marketing technopologist.
-ogimage: ../static/know-marketing-technopologist.jpg
+description: A person who knows about marketing, technology and social anthropology is a marketing technopologist.
+ogimage: ../assets/know-marketing-technopologist.jpg
 ---
 Marketing + Technology + Social Anthropology = Marketing Technopology
 
@@ -16,7 +15,7 @@ So... in simple words:
 
 I believe, the word "Marketing Technopologist" first appeared in a [WSJ article](https://www.wsj.com/articles/SB122884677205091919) (in 2008) titled “The Secrets of Marketing in a Web 2.0 World”.
 
-![Marketing Technopologist](../static/marketing-technopologist.jpg)
+![Marketing Technopologist](../assets/marketing-technopologist.jpg)
 
 ## Skills of a Marketing Technopologist
 
