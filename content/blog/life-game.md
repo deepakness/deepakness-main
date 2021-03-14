@@ -3,6 +3,7 @@ path: life-game
 date: 2020-01-04
 title: Life is a Game
 description: Keep playing it.
+ogimage: ../assets/great.jpg
 ---
 
 Whatever you’re doing, think of it as a game. ⚽
