@@ -3,7 +3,7 @@ path: notion-not-for-writers
 date: 2021-03-13
 title: Notion is NOT for the Writers
 description: Notion is a great management tool. But... sadly, it's NOT for the writers.
-ogimage: ../assets/shareacoke.jpg
+ogimage: ../assets/notion-needs-offline-feature.png
 ---
 > Get through a draft as quickly as possible. - Joshua Wolf Shenk
 
