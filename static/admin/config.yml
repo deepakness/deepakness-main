@@ -2,8 +2,8 @@ backend:
   name: github
   repo: deepakness/deepakness-main
 
-media_folder: static
-public_folder: ../static
+media_folder: content/assets
+public_folder: ../assets
 
 collections:
   - name: blog
