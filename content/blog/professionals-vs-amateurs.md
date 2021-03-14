@@ -3,6 +3,7 @@ path: professionals-vs-amateurs
 date: 2021-01-04T18:30:00.000Z
 title: Difference Between Professionals and Amateurs
 description: Habits that make professionals stand away from amateurs.
+ogimage: ../static/life-is-game.jpg
 ---
 In short, the main difference between professionals and amateurs is - **mindset**.
 
