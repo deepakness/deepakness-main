@@ -3,7 +3,10 @@ path: notion-not-for-writers
 date: 2021-03-13
 title: Notion is NOT for the Writers
 description: Notion is a great management tool. But... sadly, it's NOT for the writers.
+<<<<<<< HEAD
 ogimage: ../static/notion-is-slow.jpg
+=======
+>>>>>>> parent of 357f39d (Merge pull request #1 from FranekMarciniak/master)
 ---
 > Get through a draft as quickly as possible. - Joshua Wolf Shenk
 

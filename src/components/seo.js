@@ -9,8 +9,8 @@ import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-import defaultImage from "../../content/assets/deepak-deepakness.jpg"
-function SEO({ description, lang, meta, keywords, title, ogImage }) {
+
+function SEO({ description, lang, meta, keywords, title }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -19,7 +19,6 @@ function SEO({ description, lang, meta, keywords, title, ogImage }) {
             title
             description
             author
-            siteUrl
           }
         }
       }
@@ -27,8 +26,7 @@ function SEO({ description, lang, meta, keywords, title, ogImage }) {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const ogImageUrl = site.siteMetadata.siteUrl + ( ogImage || defaultImage )  
-      
+
   return (
     <Helmet
       htmlAttributes={{
@@ -38,7 +36,7 @@ function SEO({ description, lang, meta, keywords, title, ogImage }) {
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         {
-          name: `description`,  
+          name: `description`,
           content: metaDescription,
         },
         {
@@ -69,18 +67,6 @@ function SEO({ description, lang, meta, keywords, title, ogImage }) {
           name: `twitter:description`,
           content: metaDescription,
         },
-        {
-          property: `og:image`,
-          content: ogImageUrl,
-        },
-        {
-          property: `twitter:image`,
-          content: ogImageUrl,
-        },
-        {
-          property: `image`,
-          content: ogImageUrl,
-        }
       ]
         .concat(
           keywords.length > 0
@@ -92,7 +78,6 @@ function SEO({ description, lang, meta, keywords, title, ogImage }) {
         )
         .concat(meta)}
     />
-    
   )
 }
 
