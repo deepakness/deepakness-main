@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: deepakness/deepakness-main
+  repo: FranekMarciniak/deepakness-main
 
 media_folder: content/assets
 public_folder: ../assets
@@ -14,5 +14,5 @@ collections:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
-      - { name: description, label: Description }
+      - { name: image, label: ogImage, widget: "image" }
       - { name: body, label: Body, widget: markdown }
