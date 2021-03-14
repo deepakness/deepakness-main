@@ -3,10 +3,7 @@ path: life-game
 date: 2020-01-04
 title: Life is a Game
 description: Keep playing it.
-<<<<<<< HEAD
-ogimage: ../static/life-is-game.jpg
-=======
->>>>>>> parent of 357f39d (Merge pull request #1 from FranekMarciniak/master)
+ogimage: ../assets/great.jpg
 ---
 
 Whatever you’re doing, think of it as a game. ⚽
