@@ -4,6 +4,7 @@ date: 2019-02-12T18:30:00.000Z
 title: What a Millennial Wants from the Internet?
 description: What’s the mystery about these millennials and what do they want
   different than others?
+ogimage: ../static/marketing-technopologist.jpg
 ---
 All of a sudden everyone began to grasp what this new generation is and how they act differently than the older generation.
 
@@ -41,7 +42,7 @@ They want brands with an appearance that they like and can relate to. Think abou
 
 Coca-Cola attempted (& succeeded too) to make friends with Millennials by developing the hugely popular campaign ‘Share a Coke’.
 
-![Coca Cola's Share a Coke Campaign](../assets/shareacoke.jpg)
+![Coca Cola's Share a Coke Campaign](../static/shareacoke.jpg)
 
 Probably the first time Coca-Cola made such major changes to their marketing and packaging too. They probably understood the need to connect with ‘us’ Millennials.
 
