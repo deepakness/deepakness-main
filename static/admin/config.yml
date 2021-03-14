@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: FranekMarciniak/deepakness-main
+  repo: deepakness/deepakness-main
 
 media_folder: content/assets
 public_folder: ../assets

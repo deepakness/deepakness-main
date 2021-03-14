@@ -4,7 +4,7 @@ module.exports = {
     title: `Deepak K`,
     author: `Deepak K`,
     description: `Hey! I'm Deepak K. I write about business, marketing, and technology related stuff, mainly.`,
-    siteUrl: `https://blog-fork.netlify.app/`,
+    siteUrl: `https://deepakness.com/`,
     social: {
       twitter: `DeepakNesss`,
     },
