@@ -23,7 +23,7 @@ Yes! Frustratingly slow.
 
 It takes ages to open. And, if one needs to write a quick draft, it's just not a handy tool.
 
-![Notion is Slow](../static/notion-is-slow.jpg)
+![Notion is Slow](../assets/notion-is-slow.jpg)
 
 The same applies to the mobile app.
 
@@ -41,11 +41,11 @@ I spent a lot of time organizing my stuff rather than actually creating/writing 
 
 Notion has no offline feature yet - neither the mobile nor the desktop app.
 
-![Notion Needs Offline Feature](../static/notion-needs-offline-feature.png)
+![Notion Needs Offline Feature](../assets/notion-needs-offline-feature.png)
 
 And, it causes some real problems. If it goes down then you have [no access](https://www.keepproductive.com/blog/the-major-flaws-with-notion) to your data until it's back up again, like it happened recently:
 
-![Notion is Down](../static/notion-is-down.png)
+![Notion is Down](../assets/notion-is-down.png)
 
 During this major [outage](https://twitter.com/NotionStatus/status/1370577772880437253?s=20), I was unable to access any of my data.
 
