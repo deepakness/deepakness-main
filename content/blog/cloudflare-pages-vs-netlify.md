@@ -1,8 +1,10 @@
 ---
+path: cloudflare-pages-vs-netlify
 date: 2021-03-10T15:39:34.878Z
 title: Cloudflare Pages - All Set to Beat Netlify
 description: Cloudflare Pages is launched. And, it's going to give tough
   competition to Netlify.
+ogimage: ../static/Cloudflare-Pages-vs-Netlify.jpg
 ---
 Netlify is the first choice for most developers when it comes to hosting static sites and web applications.
 
@@ -10,11 +12,11 @@ Not anymore!!!
 
 With the most generous free tier, **Cloudflare Pages** is all set to compete with Netlify on this front. And, I believe, it can be the next number 1 choice to host JAMstack sites.
 
-![Cloudflare Pages vs Netlify](/Cloudflare-Pages-vs-Netlify.jpg)
+![Cloudflare Pages vs Netlify](../static/Cloudflare-Pages-vs-Netlify.jpg)
 
 Look at the comparisons with Netlify, below:
 
-## Cloudflare Pages vs Netlify [Feature Comparison]
+## Cloudflare Pages vs Netlify \[Feature Comparison]
 
 Most of the features are almost similar to that of Netlify. But, Cloudflare Pages wins when it comes to collaboration and security.
 
@@ -33,7 +35,7 @@ Most of the features are almost similar to that of Netlify. But, Cloudflare Page
 | Global CDN              | Yes              | No         |
 | Unlimited Collaborators | Yes              | No         |
 
-## Cloudflare Pages vs Netlify [Pricing Comparison]
+## Cloudflare Pages vs Netlify \[Pricing Comparison]
 
 | Details             | Cloudflare Pages  | Netlify            |
 | ------------------- | ----------------- | ------------------ |
@@ -49,8 +51,6 @@ Most of the features are almost similar to that of Netlify. But, Cloudflare Page
 | No. of Sites        | Unlimited         | Unlimited          |
 | Bandwidth           | Unlimited         | 400 GB             |
 | Team Members        | Unlimited         | $19/member/month   |
-
-
 
 Cloudflare Pages offer default `pages.dev` URL whereas Netlify offers `netlify.app`. Meaning, if you're not willing to add a custom domain to your app, it will look something like `your-github-repo.pages.dev` in Cloudflare Pages.
 
