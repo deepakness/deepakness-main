@@ -4,7 +4,7 @@ date: 2019-02-12T18:30:00.000Z
 title: What a Millennial Wants from the Internet?
 description: What’s the mystery about these millennials and what do they want
   different than others?
-ogimage: ../static/marketing-technopologist.jpg
+ogimage: ../assets/marketing-technopologist.jpg
 ---
 All of a sudden everyone began to grasp what this new generation is and how they act differently than the older generation.
 
