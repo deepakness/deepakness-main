@@ -14,12 +14,14 @@ Listing your product on Product Hunt is 100% free, but to maximize your chances 
 
 I have created a **Product Hunt Launch Checklist** (PDF) which will not let you miss a thing during the launch.
 
-![Product Hunt Launch Checklist](Cover-ProductHunt-Launch-Checklist.jpg)
+![Product Hunt Launch Checklist](/Cover-ProductHunt-Launch-Checklist.jpg)
 
-[Access Product Hunt Launch Checklist PDF (FREE)](Product_Hunt_Launch_Checklist_DeepakNess.pdf)
+🚀 **[Access Product Hunt Launch Checklist PDF (FREE)](/Product_Hunt_Launch_Checklist_DeepakNess.pdf)**
+
+That's it.
 
 ---
 
 **💬 Discussion**
 
-Let’s [discuss this on Twitter](#)
+Let’s [discuss this on LinkedIn](https://www.linkedin.com/posts/deepakness_product-hunt-launch-checklist-activity-6777258720809275392-qYFr)
