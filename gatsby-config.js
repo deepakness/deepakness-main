@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `Deepak K`,
     author: `Deepak K`,
-    description: `Hey! I'm Deepak K. I write about business, marketing, and technology related stuff, mainly.`,
+    description: `👋 Yo! I’m Deepak. I write about business, marketing, and technology.`,
     siteUrl: `https://deepakness.com/`,
     social: {
       twitter: `DeepakNesss`,

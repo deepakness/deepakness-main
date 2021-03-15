@@ -12,7 +12,7 @@ class IndexPage extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="Writer and Business Strategist"
+          title="Business Strategist and Blogger"
           keywords={[`Deepak`, `Deepak's Blog`, `Deepakness`, `Deepak K`, `Deepakness Blog`]}
         />
         {/* <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" /> */}
@@ -22,9 +22,11 @@ class IndexPage extends React.Component {
         </h1> */}
         <p><span role="img" aria-label="wave emoji">👋 </span><strong>Yo! I’m Deepak.</strong></p>
         <p>Mainly, I write and develop business strategies.</p>
+
         <p>
-          I’ve been writing on the internet since 2015 and have learned a certain set of business skills on the way.
+          I’ve been writing on the internet since 2015 and have acquired a certain set of business skills on the way.
         </p>
+
         <p>Here’s what I exactly do:</p>
 
         <h2>I write...</h2>
