@@ -2,8 +2,7 @@
 path: cloudflare-pages-vs-netlify
 date: 2021-03-10T15:39:34.878Z
 title: Cloudflare Pages - All Set to Beat Netlify
-description: Cloudflare Pages is launched. And, it's going to give tough
-  competition to Netlify.
+description: Cloudflare Pages is launched. And, it's going to give tough competition to Netlify.
 ogimage: ../assets/Cloudflare-Pages-vs-Netlify.jpg
 ---
 Netlify is the first choice for most developers when it comes to hosting static sites and web applications.
