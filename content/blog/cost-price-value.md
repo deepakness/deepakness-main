@@ -2,7 +2,7 @@
 path: cost-price-value
 date: 2021-03-15
 title: Cost - Price - Value
-description: Cost of a Product is NOT Price of the Product.
+description: The Cost of a Product is NOT the Price of the Product.
 ogimage: ../assets/cost-is-not-price.jpg
 ---
 
@@ -37,24 +37,24 @@ Profit is decided by taking below WHAT IFs (RISKS) into account:
 
 etc.
 
-After considering all the possible risks, profit margin is increased which further increases the price of the product.
+After considering all the possible risks, the profit margin is increased which further increases the price of the product.
 
 ## Value
 
-Seller determines price, but buyer determines value.
+The seller determines the price, but the buyer determines value.
 
 And, if buyers don't see any value in the product, they will NOT buy it - as simple as that.
 
-[The Futur](https://www.youtube.com/watch?v=zM2fB-Q8T7g) summarizes it in a beautiful way:
+[The Futur](https://www.youtube.com/watch?v=zM2fB-Q8T7g) summarizes it beautifully:
 
 > When VALUE exceeds PRICE, buyers give you money.
 
 That's it.
 
-**Food for thought:**
+**🍕 Food for thought:** When buyers ask for the cost, do they really mean cost, or do they mean price?
 
-When buyers ask for the cost, do they really mean cost or do they mean price?
+---
 
 **💬 Discussion**
 
-Let’s [discuss this on Twitter](#)
+Let’s [discuss this on Twitter](https://twitter.com/DeepakNesss/status/1371444737631133699?s=20)
