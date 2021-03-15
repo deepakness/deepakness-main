@@ -42,7 +42,7 @@ They want brands with an appearance that they like and can relate to. Think abou
 
 Coca-Cola attempted (& succeeded too) to make friends with Millennials by developing the hugely popular campaign ‘Share a Coke’.
 
-![Coca Cola's Share a Coke Campaign](../static/shareacoke.jpg)
+![Coca Cola's Share a Coke Campaign](../assets/shareacoke.jpg)
 
 Probably the first time Coca-Cola made such major changes to their marketing and packaging too. They probably understood the need to connect with ‘us’ Millennials.
 
