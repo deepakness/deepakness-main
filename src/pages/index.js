@@ -66,7 +66,7 @@ class IndexPage extends React.Component {
         <h2>Currently...</h2>
         <p><span role="img" aria-label="rocket emoji">🚀 </span>Taking <a href="https://notes.deepakness.com" rel="noreferrer" target="_blank">public raw notes</a> on things I learn</p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span>Learning to code</p>
-        <p><span role="img" aria-label="rocket emoji">🚀 </span>Reading “Outliers” by Malcolm Gladwell</p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span>Reading “The Lessons of History”</p>
 
         <Link to="/blog/">
           <Button marginTop="35px" marginBottom="40px">Blog</Button>
