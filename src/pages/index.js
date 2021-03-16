@@ -46,10 +46,6 @@ class IndexPage extends React.Component {
 
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/2019/04/04/high-performing-digital-contents/" rel="noreferrer" target="_blank">30+ Types of High Performing Content Marketing Ideas</a></p>
 
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/why-manjaro-linux-is-the-best-linux-distribution-3ff79a50708f" rel="noreferrer" target="_blank">Why Manjaro Linux is the Best Linux Distribution</a></p>
-
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/what-it-was-like-to-be-colonized-by-the-british-6a03eea701fb" rel="noreferrer" target="_blank">What It was Like to be Colonized by the British</a></p>
-
         <Link to="/blog/">
           <Button marginTop="35px" marginBottom="40px">All Posts →</Button>
         </Link>
