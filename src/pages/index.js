@@ -47,7 +47,7 @@ class IndexPage extends React.Component {
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/what-it-was-like-to-be-colonized-by-the-british-6a03eea701fb" rel="noreferrer" target="_blank">What It was Like to be Colonized by the British</a></p>
 
         <h2>I read...</h2>
-        <p>I love to read too.</p>
+        <p>I love to read too - mostly online articles but also <a href="https://deepakness.com/blog/books/">books</a> sometime.</p>
         <p>Here’s a list of blogs that produce high-quality contents and that I really love:</p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/the-blogs-database/" rel="noreferrer" target="_blank">The Blogs Database</a></p>
 
