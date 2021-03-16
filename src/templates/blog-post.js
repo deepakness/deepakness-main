@@ -6,16 +6,22 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import Button from "../components/button"
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
-    const {ogimage} = post.frontmatter
+    const { ogimage } = post.frontmatter
     const ogImagePath = ogimage && ogimage.childImageSharp.fixed.src
     return (
       <Layout location={this.props.location} title={siteTitle}>
+
+        <Link to="/blog/">
+          <Button marginTop="35px" marginBottom="40px">← All Posts</Button>
+        </Link>
+
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}

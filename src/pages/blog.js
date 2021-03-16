@@ -17,7 +17,7 @@ class Blog extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Link to="/">
-          <Button marginBottom="40px">Home</Button>
+          <Button marginBottom="40px">← Home</Button>
         </Link>
         <SEO title="All posts" />
         <Bio />

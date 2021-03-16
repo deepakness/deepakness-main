@@ -32,6 +32,10 @@ class IndexPage extends React.Component {
         <h2>I write...</h2>
         <p>I’ve always loved <a href="https://deepakness.com/blog">writing</a>. Whether it’s my personal journal or a public blog post – it’s fun to write. Also, writing pays my bills.</p>
 
+        <Link to="/blog/">
+          <Button marginTop="35px" marginBottom="40px">Go to Blog →</Button>
+        </Link>
+
         <p>Some of the best ones that I’ve written:</p>
 
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.com/blog/marketing-technopologist/">Everything about a Marketing Technopologist</a></p>
@@ -69,7 +73,7 @@ class IndexPage extends React.Component {
         <p><span role="img" aria-label="rocket emoji">🚀 </span>Reading “The Lessons of History”</p>
 
         <Link to="/blog/">
-          <Button marginTop="35px" marginBottom="40px">Blog</Button>
+          <Button marginTop="35px" marginBottom="40px">Blog →</Button>
         </Link>
         {/* 
         <hr />
