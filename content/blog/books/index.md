@@ -1,6 +1,6 @@
 ---
 path: books
-date: 2021-03-16
+date: 2021-03-15
 title: Books I Read and Recommend
 description: A list of books that I have read or will read in the future.
 ---
@@ -16,12 +16,12 @@ I spend most of my time reading online articles, but sometimes books too.
 ## Books I have read
 
 - Outliers - Malcolm Gladwell
-- The Power of Your Subconscious Mind - Joseph Murphy
+- The Power of Your Subconscious Mind - Joseph Murphy ([My Notes](https://deepakness.com/blog/books/the-power-of-your-subconscious-mind/))
 - Elon Musk - Ashlee Vance
 
 ## Wishlist
 
-- Breaking Smart:How Software is Eating the World - Venkatesh Rao
+- Breaking Smart: How Software is Eating the World - Venkatesh Rao
 - The Lean Product Playbook - Dan Olsen
 - China's Economy: What Everyone Needs to Know® - Arthur R. Kroeber
 - Nobody Wants to Read Your Sh*t - Steven Pressfield
