@@ -11,7 +11,7 @@ I spend most of my time reading online articles, but sometimes books too.
 
 ## Currently reading
 
-- The Lessons of History - Ariel Durant and Will Durant
+- The Lessons of History - Ariel Durant and Will Durant ([My Notes](https://deepakness.com/blog/books/the-lessons-of-history/))
 
 ## Books I have read
 

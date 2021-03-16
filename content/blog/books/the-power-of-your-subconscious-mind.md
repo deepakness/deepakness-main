@@ -1,7 +1,7 @@
 ---
 path: the-power-of-your-subconscious-mind
 date: 2021-03-16
-title: (Notes) - The Power of Your Subconscious Mind
+title: (Book Notes) - The Power of Your Subconscious Mind
 description: Personal notes on the book
 ---
 
