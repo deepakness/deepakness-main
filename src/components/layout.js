@@ -71,7 +71,7 @@ class Layout extends React.Component {
           {` `}
           <a href="https://deepakness.com">Deepak K</a> |
           {` `}
-          <a href="https://deepakness.com/privacy-policy/">Privacy Policy</a>
+          <a href="https://twitter.com/DeepakNesss">Twitter</a>
         </Footer>
       </Wrapper>
     )
