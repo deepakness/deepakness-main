@@ -108,6 +108,6 @@ Engineering and marketing - can we call these a match made in heaven?
 
 ---
 
-💬 Discussion
+**💬 Discussion**
 
 Let’s [discuss this on Twitter](https://twitter.com/DeepakNesss/status/1375713157855866883?s=20)
