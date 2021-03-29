@@ -12,7 +12,7 @@ Because just publishing blogs is not enough, posts should be distributed properl
 
 And, blog post repurposing is considered to be an excellent content distribution strategy for your blog posts.
 
-![Blog Post Repurposing](../assets/Blog-Post-Repurposing.jpg)
+![Blog Post Repurposing](../assets/blog-post-to-podcast.jpg)
 
 A single blog post can be repurposed or remixed into the following types of contents:
 
