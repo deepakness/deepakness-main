@@ -1,6 +1,6 @@
 ---
 path: blog-post-repurposing
-date: 2021-03-29
+date: 2021-03-28
 title: Blog Post Repurposing 🔥 Content Distribution Strategy
 description: How to repurpose and remix your blog posts to reach a new audience.
 ogimage: ../assets/Blog-Post-Repurposing.jpg
