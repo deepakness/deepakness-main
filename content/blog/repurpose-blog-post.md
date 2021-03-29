@@ -38,4 +38,4 @@ Blog post repurposing helps your content reach a new potential audience.
 
 **💬 Discussion**
 
-Let’s [discuss this on LinkedIn](#)
+Let’s [discuss this on LinkedIn](https://www.linkedin.com/posts/deepakness_blog-post-repurposing-content-distribution-activity-6782194214651404288-lctV)
