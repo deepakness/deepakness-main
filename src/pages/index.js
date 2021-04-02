@@ -60,7 +60,10 @@ class IndexPage extends React.Component {
         <h2>I create...</h2>
         <p>I create stuff on the internet.</p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog" rel="noreferrer" target="_blank">compile.blog</a>: A blog on blogging and technology tips.</p>
+
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://aspiringyouths.com" rel="noreferrer" target="_blank">Aspiring Youths</a>: A huge knowledge library for students.</p>
+
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://gum.co/200-journal-prompts" rel="noreferrer" target="_blank">Journal Prompts</a>: A collection of 200+ journal writing prompts.</p>
 
         <h2>I travel...</h2>
         <p>I travel too, occasionally.</p>
