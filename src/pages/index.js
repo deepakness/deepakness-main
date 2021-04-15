@@ -34,6 +34,8 @@ class IndexPage extends React.Component {
 
         <p>Some of the best ones that I’ve written:</p>
 
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.com/blog/hitbik-story/">Hitbik Story - Lessons Learned from a Failed Startup</a></p>
+
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.com/blog/engineering-as-marketing/">Engineering as Marketing - The Ultimate Growth Hack</a></p>
 
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.com/blog/cost-price-value/">Cost - Price - Value</a></p>
