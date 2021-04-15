@@ -14,7 +14,7 @@ And, it's not that I was very good at writing. I just used to write poorly const
 
 Life was good back then. 😁
 
-One evening, I was at home and a friend Arunanshu called me and asked if I would join a startup that a college senior Bikash Kampo is doing.
+One evening, I was at home and a friend Arunanshu called me and asked if I would join a startup that a college senior [Bikash Kampo](https://bikashkampo.com) is doing.
 
 "Of course yes", I said.
 
