@@ -30,7 +30,7 @@ I remember Bikash told me, "you don't have to work for us; if you join HitBik, y
 
 After returning from college, I went there with my laptop. There were about 5-6 people in a single room doing something with their laptops open. Everyone was sitting on the floor and there were sticky notes everywhere on the wall. And, on the wall behind my back, there was a huge chart paper with some kind of revenue model drawn on it.
 
-I had never seen so many people involved in such a beautiful way. You won't believe me but it was kind of mesmerizing for me. 😍
+I had never seen so many people involved in such a beautiful way. You won't believe but it was kind of mesmerizing for me. 😍
 
 I don't remember the names of all the people but to name a few Hitesh, Satyabrata, Raju (sorry to the people I left). And, all were my seniors; I was in the 3rd year and they had just gotten out of college.
 
@@ -38,7 +38,7 @@ And, they all briefed me about the vision and mission of Hitbik and the targets 
 
 They asked me to update my photo in the about section of the website as a co-founder. I was on top of the sky.
 
-Work was divided among all. Some had to go outside to find the to-let sign and contact the owner of the property about it, some had to go click the photos. Since I was still in college, I was given to put all the photos on the website along with other necessary details.
+Work was divided among all. Some had to go outside to find the to-let sign and contact the owner of the property, some had to go click the photos. Since I was still in college, I was given to put all the photos on the website along with other necessary details.
 
 Everything was exciting for me. On weekdays, I would add listings after my college, and on weekends, I would go to Bikash's place to discuss various ideas.
 
