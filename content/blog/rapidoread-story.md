@@ -39,4 +39,4 @@ But it did teach a few things:
 - teamwork and management, and
 - a bit idea about content marketing
 
-At least, we got to know what doesn't work. 😎
+> At least, we got to know what doesn't work. 😎
