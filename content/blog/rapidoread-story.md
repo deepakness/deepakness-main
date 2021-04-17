@@ -16,7 +16,7 @@ We were super excited. 😍
 
 And now, we just had to publish quality articles.
 
-But to be honest, we didn't have a concrete plan of how and what are we going to proceed further. Initially, I and Bikash wrote a few articles but it was becoming difficult as I was still in college.
+But to be honest, we didn't have a concrete plan of what and how are we going to proceed further. Initially, I and Bikash wrote a few articles but it was becoming difficult as I was still in college.
 
 Then... I, Bikash, and Mantry made a plan: we would invite our friends who were passionate about writing. We had nothing to give them in return but we tried.
 
