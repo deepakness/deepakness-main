@@ -122,7 +122,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `deepak-deepakness.jpg`,
+        icon: `content/assets/deepak-deepakness.jpg`,
       },
     },
     {
