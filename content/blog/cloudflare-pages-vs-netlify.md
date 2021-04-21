@@ -1,7 +1,7 @@
 ---
 path: cloudflare-pages-vs-netlify
-date: 2021-03-10T15:39:34.878Z
-title: Cloudflare Pages - All Set to Beat Netlify
+date: 2021-04-21T15:39:34.878Z
+title: Cloudflare Pages vs Netlify - Detailed Comparison
 description: Cloudflare Pages is launched. And, it's going to give tough competition to Netlify.
 ogimage: ../assets/Cloudflare-Pages-vs-Netlify.jpg
 ---
@@ -13,7 +13,7 @@ With the most generous free tier, **Cloudflare Pages** is all set to compete wit
 
 ![Cloudflare Pages vs Netlify](../assets/Cloudflare-Pages-vs-Netlify.jpg)
 
-Look at the comparisons with Netlify, below:
+Look at Cloudflare Pages comparisons with Netlify, below:
 
 ## Cloudflare Pages vs Netlify [Feature Comparison]
 
