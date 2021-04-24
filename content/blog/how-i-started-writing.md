@@ -1,7 +1,7 @@
 ---
 path: how-i-started-writing
 date: 2021-04-24
-title: How I Got Started with Writing
+title: How I got Started with Writing
 description: My writing skill was terrible but I kept writing and it taught me a lot of things.
 ---
 

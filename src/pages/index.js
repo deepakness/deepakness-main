@@ -46,7 +46,9 @@ class IndexPage extends React.Component {
 
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.com/blog/product-hunt-launch-checklist/">Product Hunt Launch Checklist</a></p>
 
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.medium.com/why-is-your-blog-not-growing-9-tips-199f590a462d" rel="noreferrer" target="_blank">Why is Your Blog Not Growing?</a></p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://deepakness.com/blog/how-i-started-writing/">How I got Started with Writing</a></p>
+
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/why-your-blog-is-not-growing/" rel="noreferrer" target="_blank">10 Reasons Why Your Blog is NOT Growing</a></p>
 
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog/2019/04/04/high-performing-digital-contents/" rel="noreferrer" target="_blank">30+ Types of High Performing Content Marketing Ideas</a></p>
 
