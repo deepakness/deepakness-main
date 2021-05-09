@@ -30,5 +30,3 @@ and, so on...
 > If things go as planned, you're lucky.
 
 If you're working on something with full focus and dedication, it will increase the chances of that thing going as planned; but it's still just a coincidence.
-
-Remember, nothing is certain.
