@@ -20,7 +20,7 @@ But... reasons due to which I can't meet her are numerous (or, probably unlimite
 -   suddenly, there's a cyclone warning in the area
 -   the government has imposed 2 weeks lockdown
 -   I got a meeting with a big client
--   I experienced food poisoning and hospitalized
+-   I experienced food poisoning and got hospitalized
 -   the car, I'm traveling in, stopped and didn't start
 -   I saw an injured person and took him/her to the hospital
 -   my house caught fire and everything burnt
