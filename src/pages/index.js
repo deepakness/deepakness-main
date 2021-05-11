@@ -65,9 +65,11 @@ class IndexPage extends React.Component {
         <p>I create stuff on the internet.</p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog" rel="noreferrer" target="_blank">compile.blog</a>: A blog on blogging and technology tips.</p>
 
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://100.exposed" rel="noreferrer" target="_blank">100 Exposed</a>: Useful and detailed lists for makers.</p>
+
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://aspiringyouths.com" rel="noreferrer" target="_blank">Aspiring Youths</a>: A huge knowledge library for students.</p>
 
-        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://gum.co/200-journal-prompts" rel="noreferrer" target="_blank">Journal Prompts</a>: A collection of 200+ journal writing prompts.</p>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://enrzi.in" rel="noreferrer" target="_blank">enrzi.in</a>: A blog about electric vehicles.</p>
 
         <h2>I travel...</h2>
         <p>I travel too, occasionally.</p>
@@ -77,6 +79,7 @@ class IndexPage extends React.Component {
 
 
         <h2>Currently...</h2>
+        <p><span role="img" aria-label="rocket emoji">🚀 </span>Creating <a href="https://100.exposed" rel="noreferrer" target="_blank">100 Exposed</a></p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span>Taking <a href="https://notes.deepakness.com" rel="noreferrer" target="_blank">public raw notes</a> on things I learn</p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span>Learning to code</p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span>Reading “The Lessons of History”</p>
