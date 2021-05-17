@@ -29,7 +29,7 @@ It really worked, now I am not at all worried about what people will think and I
 
 **Now, I just write, edit, and hit publish.**
 
-Because I publishing more, I'm writing more, and so I'm being better at writing.
+Because I publish more, I'm writing more, and so I'm being better at writing.
 
 That's it.
 
