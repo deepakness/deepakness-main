@@ -48,4 +48,4 @@ But... whatever happened, it taught me and probably everyone else some great les
 
 It was the reason I met Bikash and some other interesting people, it was the reason I generated so much interest in business, and it was the reason that created a kind of spark in my mind to see everything around me as a business.
 
-Yes, I call the startup a teacher - an unforgettable one.
+Yes, I call the [failed startup](https://100.exposed/failed-startups-2020/) a teacher - an unforgettable one.
