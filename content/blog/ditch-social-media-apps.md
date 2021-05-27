@@ -51,3 +51,9 @@ It's still better than getting distracted and wasting your time, right?
 Also, I've seen some people receiving a lot of notifications in their browser because they click "allow" if any website asks them to send notifications. In that case, you can go to the browser's setting and turn off all the notifications from the browser.
 
 That's it.
+
+- - -
+
+**💬 Discussion**
+
+Let's [discuss on LinkedIn](https://www.linkedin.com/posts/deepakness_ditch-social-media-apps-activity-6803548559770750976-bZ1J)
