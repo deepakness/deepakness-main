@@ -65,6 +65,8 @@ class IndexPage extends React.Component {
         <p>I create stuff on the internet.</p>
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://compile.blog" rel="noreferrer" target="_blank">compile.blog</a>: A blog on blogging and technology tips.</p>
 
+        <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://www.personalwebsites.top/" rel="noreferrer" target="_blank">Personal Websites List</a>: A list of 100+ personal websites with 15+ data points.</p>
+
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://100.exposed" rel="noreferrer" target="_blank">100 Exposed</a>: Useful and detailed lists for makers.</p>
 
         <p><span role="img" aria-label="rocket emoji">🚀 </span><a href="https://aspiringyouths.com" rel="noreferrer" target="_blank">Aspiring Youths</a>: A huge knowledge library for students.</p>
