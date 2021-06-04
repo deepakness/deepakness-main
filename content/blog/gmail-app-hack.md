@@ -2,7 +2,7 @@
 path: gmail-app-hack
 date: 2021-06-04
 title: Gmail App Hack
-description: A small hack to delete unwanted emails directly from the notification panel
+description: Delete unwanted emails directly from the notification panel in Gmail.
 ogimage: ../assets/gmail-app-hack.jpg
 ---
 
