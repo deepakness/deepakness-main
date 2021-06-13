@@ -28,3 +28,9 @@ This way, you will be able to know the reality of the course and the chances of 
 Most of the online courses are very basic and they do not worth the money that you pay.
 
 To be honest, I've never bought a single online course. I prefer going through the documentation and other free resources available.
+
+---
+
+**💬 Discussion**
+
+Let’s [discuss this on Twitter](https://twitter.com/DeepakNesss/status/1404127657881608198?s=20)
