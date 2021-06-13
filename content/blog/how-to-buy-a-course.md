@@ -19,7 +19,7 @@ No, not necessarily.
 
 But you should always verify if the course is really good. Here's how to do that:
 
--   Google "\<the course name> scam" and if anyone has written a bad review, it'll appear
+-   Google "<the course name> scam" and if anyone has written a bad review, it'll appear
 -   Go to forums like Quora and Reddit and search by the name of the course
 -   Ask your social media friends if the course is worth buying
 
