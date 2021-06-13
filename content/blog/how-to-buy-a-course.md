@@ -7,7 +7,7 @@ description: Read this before you buy an online course
 
 Came across an online course that seems amazing and you feel like buying it right away?
 
-Wait! Read this before you buy.
+**Wait! Read this before you buy.**
 
 Course landing pages are created to impress you. All the content, designs, testimonials are put in such a way that it becomes tough to not buy the course.
 
@@ -19,7 +19,7 @@ No, not necessarily.
 
 But you should always verify if the course is really good. Here's how to do that:
 
--   Google "{the course name} scam" and if anyone has written a bad review, it'll appear
+-   Google "*{the course name} scam*" and if anyone has written a bad review, it'll appear
 -   Go to forums like Quora and Reddit and search by the name of the course
 -   Ask your social media friends if the course is worth buying
 
