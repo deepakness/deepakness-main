@@ -9,7 +9,7 @@ Came across an online course that seems amazing and you feel like buying it righ
 
 **Wait! Read this before you buy.**
 
-Course landing pages are created to impress you. All the content, designs, testimonials are put in such a way that it becomes tough to not buy the course.
+The landing pages of online courses are created to impress you. All the content, designs, testimonials are put in such a way that it becomes tough to not buy the course.
 
 You will also find other famous YouTubers and bloggers recommending the course.
 
