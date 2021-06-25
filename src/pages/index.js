@@ -21,16 +21,16 @@ class IndexPage extends React.Component {
           {" "} Yo!
         </h1> */}
         <p><span role="img" aria-label="wave emoji">👋 </span><strong>Yo! I’m Deepak.</strong></p>
-        <p>Mainly, I write and develop business strategies.</p>
+        <p>Mainly, I write about business and technology.</p>
 
         <p>
-          I’ve been writing on the internet since 2015 and have acquired a certain set of business skills on the way.
+          I’ve been paying my bills by writing on the internet since 2015. Plus, I'm exploring some other things too.
         </p>
 
         <p>Here’s what I exactly do:</p>
 
         <h2>I write...</h2>
-        <p>I’ve always loved <a href="https://deepakness.com/blog">writing</a>. Whether it’s my personal journal or a public blog post – it’s fun to write. Also, writing pays my bills.</p>
+        <p>I’ve always loved <a href="https://deepakness.com/blog">writing</a>. Whether it’s my personal journal or a public blog post – it’s fun to write. Initially, I struggled with writing but it got better with time (you'll see 😋).</p>
 
         <p>Some of the best ones that I’ve written:</p>
 
