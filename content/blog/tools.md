@@ -28,27 +28,27 @@ Zoho Vault is the best password manager I've ever used. It's free and 100% secur
 
 Right now, I'm using the tool as Chrome estension, Firefox exetension and Android app.
 
-- Digital Ocean - (Paid)
+- [Digital Ocean](https://www.digitalocean.com/) - (Paid)
 
 All the websites that I've created using WordPress are hosted on Digital Ocean -- it's crazy fast and affordable.
 
 In fact, I have been able to receive a [full 100 score](https://twitter.com/DeepakNesss/status/1402445808478216194?s=20) on Google Lighthouse for one of my WordPress websites.
 
-- MailerLite - (Paid)
+- [MailerLite](https://www.mailerlite.com/) - (Paid)
 
 I use MailerLite to send emails and to capture leads for all my websites. It's affordable and reputation is great too.
 
-- Gumroad - (Free)
+- [Gumroad](https://gumroad.com/) - (Free)
 
 Gumroad is a great platform to host your digital products. I use it host all the paid and free mini products that I create.
 
 And, the best thing is it's not just a product hosting website. Gumroad lets you specifically target your customers and send them emails.
 
-- Figma - (Free)
+- [Figma](https://www.figma.com/) - (Free)
 
 Earlier I used Gravit for all my graphics needs. But now I have moved to Figma and you can pretty much design any kind of graphic for social media and website.
 
-- Obsidian - (Free)
+- [Obsidian](https://obsidian.md/) - (Free)
 
 Earlier I used Notion for writing but realized later that [Notion is not for the writers](https://deepakness.com/blog/notion-not-for-writers/).
 
